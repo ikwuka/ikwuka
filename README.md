@@ -35,7 +35,7 @@ I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffer
     </a>
 </p><br>
 
-If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉👈 hand
+If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/ikwukao2" target="_blank">
     <img
