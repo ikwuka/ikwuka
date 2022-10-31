@@ -16,7 +16,7 @@ I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffer
 
 &emsp;&emsp;&emsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikwukao@proton.me.com) &emsp;
-[![Twitter - @Ikwuka_Okoye](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ikwuka_Okoye)&emsp;
+[![Twitter - @Ikwuka_Okoye](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ikwuka_Okoye)&emsp;<br>
 
 ## 🌈 Github Stats:
 
@@ -43,4 +43,4 @@ If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉�
         alt="Buy Me A Coffee"
         width="150"
     />
-</a><br>
+</a>
