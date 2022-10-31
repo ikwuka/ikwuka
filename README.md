@@ -10,13 +10,13 @@
 
 ## Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffering solutions to demanding security challenges.<br>
+I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffering solutions to demanding security challenges.<br><br>
 
 ## 📫 Reach me:
 
 &emsp;&emsp;&emsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikwukao@proton.me.com) &emsp;
-[![Twitter - @Ikwuka_Okoye](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ikwuka_Okoye)&emsp;<br>
+[![Twitter - @Ikwuka_Okoye](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ikwuka_Okoye)&emsp;<br><br>
 
 ## 🌈 Github Stats:
 
@@ -33,7 +33,7 @@ I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffer
         alt="@ikwuka top languages"
     />
     </a>
-</p><br>
+</p><br><br>
 
 If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉👈
 
