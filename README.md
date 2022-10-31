@@ -41,8 +41,8 @@ I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffer
 If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉👈 hand
 
 <a href="https://www.buymeacoffee.com/ikwukao2" target="_blank">
-    <img s
-        rc="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"
+    <img
+        src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"
         alt="Buy Me A Coffee"
         width="150"
     />
