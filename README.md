@@ -32,7 +32,7 @@ I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffer
     <a href="https://github.com/ikwuka/github-readme-stats">
     <img 
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikwuka&layout=compact&theme=jolly"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikwuka&layout=compact&theme=gotham"
         alt="@ikwuka top languages"
     />
     </a>
