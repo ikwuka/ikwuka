@@ -23,14 +23,14 @@ I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffer
 <p align="center">
     <a href="https://github.com/ikwuka/github-readme-stats">
         <img 
-            align="right"
+            align="left"
             src="https://github-readme-stats.vercel.app/api?username=ikwuka&count_private=true&show_icons=true&theme=gotham"
             alt="@ikwuka GitHub statistics"
         />
     </a>
     <a href="https://github.com/ikwuka/github-readme-stats">
     <img 
-        align="left"
+        align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikwuka&layout=compact&theme=gotham"
         alt="@ikwuka top languages"
     />
