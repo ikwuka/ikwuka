@@ -32,6 +32,7 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic specialization in
         alt="@ikwuka top languages"
     />
     </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=ikwuka&theme=dracula&fire=red)](https://git.io/streak-stats)
 </p><br><br>
 
 If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉👈
