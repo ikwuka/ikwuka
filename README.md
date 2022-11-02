@@ -10,7 +10,7 @@
 
 ## Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I am **Ikwuka Okoye**, an aspiring *Software Security Engineer*. I enjoy proffering solutions to demanding security challenges.<br><br>
+I am **Ikwuka Okoye**, a *Software Engineer* with ecstatic specialization in software security. What could be more fulfilling than proffering solutions to demanding security challenges? Believe you me, that is the hallmark and most sacrosanct (second to none) when listing core technological requirements to be met.<br><br>
 
 ## 📫 Reach me:
 
