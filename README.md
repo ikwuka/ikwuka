@@ -19,7 +19,7 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic specialization in
 
 ## 🌈 Github Stats:
 
-<p align="center">
+<p>
     <a href="https://github.com/ikwuka/github-readme-stats">
         <img
             src="https://github-readme-stats.vercel.app/api?username=ikwuka&count_private=true&show_icons=true&theme=gotham"
@@ -33,7 +33,8 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic specialization in
     />
     </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ikwuka&theme=dracula)](https://git.io/streak-stats)<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ikwuka&theme=dracula)](https://git.io/streak-stats)
 
 If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉👈
 
