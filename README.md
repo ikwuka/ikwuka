@@ -23,19 +23,19 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
 <p>
     <a href="https://github.com/ikwuka/github-readme-stats">
         <img
-            src="https://github-readme-stats.vercel.app/api?username=ikwuka&count_private=true&show_icons=true&theme=gotham"
+            src="https://github-readme-stats.vercel.app/api?username=ikwuka&count_private=true&show_icons=true&theme=radical"
             alt="@ikwuka GitHub statistics"
         />
     </a>
     <a href="https://github.com/ikwuka/github-readme-stats">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikwuka&layout=compact&theme=gotham"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikwuka&layout=compact&theme=radical"
         alt="@ikwuka top languages"
     />
     </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ikwuka&theme=dark)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ikwuka&theme=radical)](https://git.io/streak-stats)<br>
 
 If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉👈
 
