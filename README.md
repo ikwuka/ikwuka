@@ -13,12 +13,19 @@
 
 I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***software security***. What could be more fulfilling than proffering solutions to demanding security challenges!? Believe you me, that is the hallmark and most sacrosanct (second to none) when brainstorming on core technological requirements to be met.<br><br>
 
-## 📫 Reach me:
+## Certifications/Badges
+---------------------------------
+|**Certification/Badge**|**Issuer Organization**|
+|--|--|
+|**[(ISC)^2 Candidate](https://www.credly.com/badges/a98dff18-778e-4f8d-8e64-c74d23b6178b/public_url)**|**(ISC)^2**|
+|**[Introduction to Cybersecurity](https://www.credly.com/badges/6ef2b312-217d-4653-b307-eb4d480d04f3/public_url)**|**Cisco**|
+
+## 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikwukao@proton.me.com) &emsp;
 [![Twitter - @Ikwuka_Okoye](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ikwuka_Okoye)&emsp;<br><br>
 
-## 🌈 Github Stats:
+## 🌈 Github Stats
 
 <p>
     <a href="https://github.com/ikwuka/github-readme-stats">
