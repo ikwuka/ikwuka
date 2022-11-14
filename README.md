@@ -16,7 +16,7 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
 ## Certifications/Badges
 | Certification/Badge | Issuer Organization |
 | :--                 | :--                 |
-|**[(ISC)^2 Candidate](https://www.credly.com/badges/a98dff18-778e-4f8d-8e64-c74d23b6178b/public_url)**|$(ISC)^2$|
+|**\[$\(ISC\)^2$ Candidate](https://www.credly.com/badges/a98dff18-778e-4f8d-8e64-c74d23b6178b/public_url)**|**$\(ISC)^2$**|
 |**[Introduction to Cybersecurity](https://www.credly.com/badges/6ef2b312-217d-4653-b307-eb4d480d04f3/public_url)**|**Cisco**|
 |**[Python Essentials 1](https://www.credly.com/badges/7141539a-8c26-49b4-8c1e-3a948022096c/public_url)**|**Cisco**|
 |                     |                     |
