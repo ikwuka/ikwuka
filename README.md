@@ -19,6 +19,7 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
 |**[(ISC)^2 Candidate](https://www.credly.com/badges/a98dff18-778e-4f8d-8e64-c74d23b6178b/public_url)**|$(ISC)^2$|
 |**[Domain 1: Security Principles (CC)](https://www.dropbox.com/s/u1z2ieiop6ef0ua/security_principles.pdf?dl=0)**|$(ISC)^2$|
 |**[Domain 2: Business Continuity, Disaster Recovery, and Incident Response Concepts](https://www.dropbox.com/s/bdzwc2z52r9ucgx/business_continuity_disaster_recovery_and_incident_response_concepts.pdf?dl=0)**|$(ISC)^2$|
+|**[Domain 3: Access Control Concepts](https://www.dropbox.com/s/lxb1ehjh3ad4xo0/access_control_concepts.pdf?dl=0)**|$(ISC)^2$|
 |**[Introduction to Cybersecurity](https://www.credly.com/badges/6ef2b312-217d-4653-b307-eb4d480d04f3/public_url)**|**Cisco**|
 |**[Python Essentials 1](https://www.credly.com/badges/7141539a-8c26-49b4-8c1e-3a948022096c/public_url)**|**Cisco**|
 |                     |                     |
