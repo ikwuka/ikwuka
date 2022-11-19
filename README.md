@@ -14,7 +14,8 @@
 I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***software security***. What could be more fulfilling than proffering solutions to demanding security challenges!? Believe you me, that is the hallmark and most sacrosanct (second to none) when brainstorming on core technological requirements to be met.<br><br>
 
 ## Certifications / Badges
-| Certification/Badge | Issuer Organization |
+
+| Certificate/Badge | Issuer Organization |
 | :--                 | :--                 |
 |**[International Information Systems Security Certification Consortium Candidate](https://www.credly.com/badges/a98dff18-778e-4f8d-8e64-c74d23b6178b/public_url)**|$(ISC)^2$|
 |**[Domain 1: Security Principles (CC)](https://www.dropbox.com/s/u1z2ieiop6ef0ua/security_principles.pdf?dl=0)**|$(ISC)^2$|
