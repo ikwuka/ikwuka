@@ -13,7 +13,7 @@
 
 I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***software security***. What could be more fulfilling than proffering solutions to demanding security challenges!? Believe you me, that is the hallmark and most sacrosanct (second to none) when brainstorming on core technological requirements to be met.<br><br>
 
-## Certifications / Badges
+## Distinguished Certifications/Badges
 
 | Certification/Badge | Issuer Organization |
 | :--                 | :--                 |
