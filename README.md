@@ -23,6 +23,7 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
 |**[Domain 3: Access Control Concepts](https://www.dropbox.com/s/lxb1ehjh3ad4xo0/access_control_concepts.pdf?dl=0)**|$(ISC)^2$|
 |**[Domain 4: Network Security](https://www.dropbox.com/s/90zd8fxa5qk4cud/network_security.pdf?dl=0)**|$(ISC)^2$|
 |**[Domain 5: Security Operations](https://www.dropbox.com/s/73hhda97otgjyw6/security_operations.pdf?dl=0)**|$(ISC)^2$|
+|**[Certified in Cybersecurity (CC) Course Completion Badge](https://www.dropbox.com/s/xigny651wk3x37u/certified_in_cybersecurity_course_completion.pdf?dl=0)**|$(ISC)^2$|
 |**[Introduction to Cybersecurity](https://www.credly.com/badges/6ef2b312-217d-4653-b307-eb4d480d04f3/public_url)**|**Cisco**|
 |**[Python Essentials 1](https://www.credly.com/badges/7141539a-8c26-49b4-8c1e-3a948022096c/public_url)**|**Cisco**|
 |                     |                     |
