@@ -34,7 +34,8 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Protonmail-D14836?style=for-the-badge&logo=proton&logoColor=white)](mailto:ikwukao@proton.me.com) &emsp;
-[![Twitter - @Ikwuka_Okoye](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ikwuka_Okoye)&emsp;<br><br>
+[![Twitter - @Ikwuka_Okoye](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ikwuka_Okoye) &emsp;
+<br><br>
 
 ## 🌈 Github Stats
 
@@ -53,7 +54,8 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
     </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ikwuka&theme=radical)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ikwuka&theme=radical)](https://git.io/streak-stats)
+<br><br>
 
 If you appreciate what I do, please consider buying me a coffee/tea. 🥺👉👈
 
