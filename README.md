@@ -5,7 +5,7 @@
 <p align="center">
     <img
         src="./banner/software_engineer.gif"
-        alt="Software Security Engineer"
+        alt="Software Engineer"
     />
 </p><br>
 
