@@ -19,7 +19,7 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
 
 | Credentials | Issuing Organization |
 | :--                 | :--                 |
-|**[Official Certified in Cybersecurity (CC) Course Completion Certificate](https://www.dropbox.com/s/4gwq2abi7o70ujr/Official_CC_Course_Completion%29_Certificate_Official%20%28ISC%29%C2%B2_Certified_in_Cybersecurity_%28CC%29_Self-Paced_Training%20-%201M_Okoye.pdf?dl=0)**|**(ISC)2**|
+|**[Official Certified in Cybersecurity (CC) Course Completion Certificate](https://www.dropbox.com/s/0e1835h9h8w92qv/Official_CC_Course_Completion%29_Certificate_Official%20%28ISC%292_Certified_in_Cybersecurity_%28CC%29.pdf?dl=0)**|**(ISC)2**|
 |                     |                     |
 |**[Introduction to Cybersecurity](https://www.credly.com/badges/6ef2b312-217d-4653-b307-eb4d480d04f3/public_url)**|**Cisco**|
 |**[Python Essentials 1](https://www.credly.com/badges/7141539a-8c26-49b4-8c1e-3a948022096c/public_url)**|**Cisco**|
