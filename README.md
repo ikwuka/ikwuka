@@ -22,7 +22,8 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
 |**[Introduction to Cybersecurity](https://www.credly.com/badges/6ef2b312-217d-4653-b307-eb4d480d04f3/public_url)**|**Cisco**|
 |**[Python Essentials 1](https://www.credly.com/badges/7141539a-8c26-49b4-8c1e-3a948022096c/public_url)**|**Cisco**|
 |                     |                     |
-|**[Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/badges/38a9d816-15ff-4f41-b34d-d22d41ae03ba/public_url)**|**Coursera / IBM**|
+|**[Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/badges/38a9d816-15ff-4f41-b34d-d22d41ae03ba/public_url)**|**IBM**|
+|**[Enterprise Design Thinking Practitioner](https://www.credly.com/badges/6ff4daa7-6834-4c1a-9ae7-ed6e69e3c130/public_url)**|**IBM**|
 |                     |                     |
 
 <br><br>
