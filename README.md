@@ -4,12 +4,12 @@
 --| --| --| --| --|
 <br>
 
-<p align="center">
+<div align="center">
     <img
         src="./banner/software_engineer.gif"
         alt="Software Engineer"
     />
-</p><br>
+</div><br>
 
 ## Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
@@ -38,7 +38,7 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
 
 ## 🌈 Github Stats
 
-<p>
+<div>
     <a href="https://github.com/ikwuka/github-readme-stats">
         <img
             src="https://github-readme-stats.vercel.app/api?username=ikwuka&count_private=true&show_icons=true&theme=radical"
@@ -51,7 +51,7 @@ I am **Ikwuka Okoye**, a ***Software Engineer*** with ecstatic interest in ***so
         alt="@ikwuka top languages"
     />
     </a>
-</p>
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ikwuka&theme=radical)](https://git.io/streak-stats)
 <br><br>
